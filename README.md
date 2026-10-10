@@ -1,9 +1,9 @@
 # Bài thi: Adapter Pattern
 
 ```text
-Họ và tên:
+Họ và tên: Nguyễn Nhật Huy
 Mã sinh viên:
-Lớp:
+Lớp: K24
 Bài thi: Adapter Pattern
 ```
 
